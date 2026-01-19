@@ -1,0 +1,1 @@
+# Mapas en formato osu
